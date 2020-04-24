@@ -1,3 +1,3 @@
 # Arduino-Projects-2
-<img src="final.png">
-<img src="circuit.png">
+<img src="final.PNG">
+<img src="circuit.PNG">
